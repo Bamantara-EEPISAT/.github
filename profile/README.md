@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://via.placeholder.com/200](https://d33wubrfki0l68.cloudfront.net/9c80d635033669c5a01e07bad6ad4216eb6d28d6/d3243/asset/eepisat.png)" alt="EEPISAT Logo" width="200"/>
+  <img src="https://d33wubrfki0l68.cloudfront.net/9c80d635033669c5a01e07bad6ad4216eb6d28d6/d3243/asset/eepisat.png" alt="EEPISAT Logo" width="200"/>
 </p>
 
 <h1 align="center">EEPISAT</h1>
