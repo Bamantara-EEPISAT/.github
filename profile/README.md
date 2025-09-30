@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/200" alt="EEPISAT Logo" width="200"/>
+  <img src="[https://via.placeholder.com/200](https://d33wubrfki0l68.cloudfront.net/9c80d635033669c5a01e07bad6ad4216eb6d28d6/d3243/asset/eepisat.png)" alt="EEPISAT Logo" width="200"/>
 </p>
 
 <h1 align="center">EEPISAT</h1>
@@ -25,6 +25,28 @@ We focus on a wide range of aerospace disciplines, including:
 - 🛰️ **Satellite Technology:** Designing, building, and launching small satellites.
 - 🚀 **Rocketry:** Researching and constructing sounding rockets for atmospheric study.
 - 📡 **Ground Control Systems:** Creating software and hardware for mission control and data acquisition.
+
+## 🏆 Our Proud Achievements
+
+Our team consistently demonstrates excellence on the international stage. We are proud of our track record in prestigious aerospace competitions.
+
+- **2025**
+  - **Finalist** | CanSat Competition - *American Astronautical Society*
+  - **Finalist** | Model Satellite Competition (Multi-Spectral Mechanical Filtering Module) - *TEKNOFEST*
+  - **Top 4** | Indonesia Aerospace Hackathon - *Asosiasi Satelit Indonesia (ASSI)*
+
+- **2024**
+  - **Finalist** | CanSat Competition - *American Astronautical Society*
+
+- **2023**
+  - **3rd Place** | CanSat Competition - *American Astronautical Society*
+    - *(Note: Initially awarded 2nd place, officially ranked 3rd after a post-competition scoring review)*
+
+- **2022**
+  - **3rd Place** | CanSat Competition - *American Astronautical Society*
+
+- **2021**
+  - **6th Place** | CanSat Competition - *American Astronautical Society*
 
 ## 🛠️ Technology Stack
 
