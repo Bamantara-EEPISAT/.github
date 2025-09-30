@@ -23,7 +23,6 @@ Welcome to the official GitHub organization for **EEPISAT**! We are a passionate
 
 We focus on a wide range of aerospace disciplines, including:
 - 🛰️ **Satellite Technology:** Designing, building, and launching small satellites.
-- ✈️ **Unmanned Aerial Vehicles (UAVs):** Developing autonomous drones and paragliders.
 - 🚀 **Rocketry:** Researching and constructing sounding rockets for atmospheric study.
 - 📡 **Ground Control Systems:** Creating software and hardware for mission control and data acquisition.
 
