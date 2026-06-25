@@ -29,7 +29,8 @@ We focus on a wide range of aerospace disciplines, including:
 ## 🏆 Our Proud Achievements
 
 Our team consistently demonstrates excellence on the international stage. We are proud of our track record in prestigious aerospace competitions.
-
+- **2026**
+  - **3rd Place** | CanSat Competition - *American Astronautical Society*
 - **2025**
   - **Finalist** | CanSat Competition - *American Astronautical Society*
   - **Finalist** | Model Satellite Competition (Multi-Spectral Mechanical Filtering Module) - *TEKNOFEST*
